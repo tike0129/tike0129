@@ -1,4 +1,32 @@
-### Hi there 👋
+# Hi there 👋
+
+## Profile
+Job Title: Frontend/Backend Developer, Game Developer
+
+## Skill Set
+
+### Frontend
+- HTML, CSS/Sass
+- JavaScript, TypeScript
+- React, jQuery
+- Backbone.js, Underscore.js, RequireJS
+
+### Backend
+- Java (Spring, Spring Boot)
+- PHP
+- PL/SQL
+
+### Game Development
+- Unity
+- Naninovel
+
+### Tools & Others
+- VBA
+- Git, version control
+- Development environments: Eclipse, Visual Studio, VS Code, Xcode, Android Studio
+
+
+
 
 <!--
 **tike0129/tike0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +49,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tike0129&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
