@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Profile
-Frontend/Backend Developer, Game Developer
+Frontend/Backend Developer, Game Engineer
 
 ## Skill Set
 
