@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Profile
-Job Title: Frontend/Backend Developer, Game Developer
+Frontend/Backend Developer, Game Developer
 
 ## Skill Set
 
