@@ -25,6 +25,9 @@ Frontend/Backend Developer, Game Engineer
 - Git, version control
 - Development environments: Eclipse, Visual Studio, VS Code, Xcode, Android Studio
 
+### Certification
+- ITIL® 4 Foundation Certified (2025)
+
 
 
 
