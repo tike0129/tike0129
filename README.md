@@ -15,13 +15,18 @@ Frontend/Backend Developer, Game Engineer
 - Java (Spring, Spring Boot)
 - PHP
 - PL/SQL
+- PostgreSQL
 
 ### Game Development
 - Unity
+  - iOS / Android Release
 - Naninovel
 
 ### Tools & Others
+- Google Apps Script
+- SVF Designer / JasperReports
 - VBA
+- Linux
 - Git, version control
 - Development environments: Eclipse, Visual Studio, VS Code, Xcode, Android Studio
 
