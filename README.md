@@ -19,7 +19,7 @@ Frontend/Backend Developer, Game Engineer
 * Java（Spring / Spring Boot）
   - 業務系Webアプリケーションの改修・運用
   - REST API / バッチ処理の保守対応
-  - 某公共系システムにおける長期運用案件
+  - 某公共系システムにおける長期運用
 * Node.js（TypeScript）
   - Hono（BFF / REST API）
   - Webhook受信・イベント処理
@@ -47,6 +47,19 @@ Frontend/Backend Developer, Game Engineer
 * Shell Script（Linux環境における既存バッチ処理の修正・運用）
 
 ### Game Development
+
+* スマートフォン向けソーシャルゲームアプリ運用、開発
+  - スマートフォン向けソーシャルゲームの運用・保守
+  - 既存機能改修、不具合対応、イベント更新対応
+
+* スマートフォン向けゲームアプリ開発
+  - Unity を用いた iOS / Android 向けゲーム開発
+  - 開発〜リリースまでの一連の工程を経験
+  - DeployGate を用いたテスト配布
+
+* PC向け乙女ゲーム / ノベルゲーム開発
+  - Naninovel を用いたADV / ノベルゲーム制作
+  - シナリオ演出、分岐管理、UI調整
 
 * Unity（iOS / Android リリース経験）
 * UniyAds
