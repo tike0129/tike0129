@@ -23,7 +23,7 @@ Frontend/Backend Developer, Game Engineer
 * Node.js（TypeScript）
   - Hono（BFF / REST API）
   - Webhook受信・イベント処理
-  - 大手通信事業会社におけるAI活用型Webプロダクト開発
+  - 某通信事業会社におけるAI活用型Webプロダクト開発
 * PHP
 * PL/SQL
 * PostgreSQL
