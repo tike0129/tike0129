@@ -7,16 +7,23 @@ Frontend/Backend Developer, Game Engineer
 ## Skill Set
 
 ### Frontend
-
-* HTML, CSS/Sass
-* JavaScript, TypeScript
-* React, jQuery
-* Backbone.js, Underscore.js, RequireJS
-* Build: Vite
+- HTML, CSS / Sass
+- JavaScript, TypeScript
+- React（Hooks / Function Component）
+- jQuery
+- Backbone.js, Underscore.js, RequireJS
+- Build Tools: Vite
 
 ### Backend
 
 * Java（Spring / Spring Boot）
+  - 業務系Webアプリケーションの改修・運用
+  - REST API / バッチ処理の保守対応
+  - 某公共系システムにおける長期運用案件
+* Node.js（TypeScript）
+  - Hono（BFF / REST API）
+  - Webhook受信・イベント処理
+  - 大手通信事業会社におけるAI活用型Webプロダクト開発
 * PHP
 * PL/SQL
 * PostgreSQL
@@ -28,13 +35,30 @@ Frontend/Backend Developer, Game Engineer
 
 ### Automation / Google Workspace（GAS）
 
-* 主な実績: Twitter API 連携、OAuth/認証、スクレイピング、Sheets/Gmail/Drive の自動化
-* Web Apps（doGet/doPost）や定期実行による自動化
+* Twitter API 連携
+* OAuth / 認証処理
+* スクレイピング
+* Google Sheets / Gmail / Drive の自動化
+* Web Apps（doGet / doPost）
+* 定期実行トリガーによる自動化
+
+### Scripting / Batch Processing
+
+* Shell Script（Linux環境における既存バッチ処理の修正・運用）
 
 ### Game Development
 
 * Unity（iOS / Android リリース経験）
+* UniyAds
+* Unity IAP
+* SocialConnector
+* PlayerPrefs
 * Naninovel
+* Addressable
+* Unity Localization
+* Input System
+* PUN2
+* Photon
 
 ### Architecture & Practices
 
@@ -46,11 +70,40 @@ Frontend/Backend Developer, Game Engineer
 
 ### Tools & Others
 
-* SVF Designer / JasperReports
-* VBA
-* Linux
-* Git（ブランチ運用・コードレビュー）
-* IDE: Eclipse, Visual Studio, VS Code, Xcode, Android Studio, Cursor
+- 帳票ツール
+  - SVF Designer
+  - JasperReports（帳票設計・修正）
+
+- データベース / 検索
+  - PostgreSQL
+  - pgAdmin（運用・調査）
+  - Apache Solr（検索インデックス運用・調査）
+
+- OS / ミドルウェア
+  - Linux（業務サーバ操作・ログ調査）
+  - Apache / Jetty（運用環境）
+
+- 開発・運用ツール
+  - Git（ブランチ運用、レビュー対応）
+  - SourceTree
+  - DeployGate（アプリ配布・テスト）
+  - Docker
+  - OrbStack
+  - Redmine（課題・チケット管理）
+  - Backlog（課題・チケット管理）
+  - Wrike（タスク・進捗管理）
+  - Hinemos（ジョブ監視・運用）
+  - WinSCP / SCP（ファイル転送）
+
+- IDE / エディタ
+  - Eclipse
+  - Visual Studio
+  - Visual Studio Code
+  - Xcode
+  - Android Studio
+  - Cursor
+  - vi / vim
+
 
 ### Certification
 
